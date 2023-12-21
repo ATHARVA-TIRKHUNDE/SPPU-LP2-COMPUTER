@@ -1,0 +1,2 @@
+# SPPU-LP2-COMPUTER
+ Elective III(410244 ) CSDF, Elective IV(410245) STQA
